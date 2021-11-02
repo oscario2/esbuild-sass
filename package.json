@@ -1,0 +1,5 @@
+{
+    "name": "esbuild-sass",
+    "type": "module",
+    "module": "esm"
+}
