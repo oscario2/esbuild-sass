@@ -1,5 +1,6 @@
 {
     "name": "esbuild-sass",
+    "main": "index.mjs",
     "version": "1.0.0",
     "type": "module",
     "module": "esm"
